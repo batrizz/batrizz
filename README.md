@@ -1,4 +1,4 @@
-## Oii eu sou a Beatriz Nunes
+## Olá eu sou a Beatriz Nunes
 
 - 🔭 Buscando trabalhar com front-end
 - 🌱 Estudando JS
