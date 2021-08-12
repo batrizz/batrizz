@@ -1,10 +1,9 @@
 ## Olá eu sou a Beatriz Nunes
 
 - 🔭 Buscando trabalhar com front-end
-- 🌱 Estudando JS
-- 📫 Contato Gmail: biahsouzanunes@gmail.com
-- 😄 Pronome: ela/dela
-- ⚡ Fato engraçado: Tenho múltiplas personalidades
+- 🌱 Estudando JS/HTML/CSS/REACT
+- 📫 Contato G-mail: biahsouzanunes@gmail.com
+- ⚡ Fato engraçado: Eclética na vida
 
  <div>
   <a href="https://github.com/batrizz">
