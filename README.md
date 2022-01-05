@@ -1,9 +1,6 @@
 ## Olá eu sou a Beatriz Nunes <3
 
-Desenvolvedora Front-end. Nova no React.js porém formada em ensino técnico (Desenvolvimento de websites). Sempre estudando e querendo saber mais.
-<br>
-
-Não, eu não sei mexer no Discord hahaha
+Desenvolvedora Front-end. Sempre estudando.
 <br>
  <div>
   <a href="https://github.com/batrizz">
